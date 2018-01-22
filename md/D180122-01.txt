@@ -1,0 +1,29 @@
+网志：雪币产品开发
+----------
+
+&nbsp;
+
+本文除了记录雪币产品的开发与维护过程中发生过的大事，还预告本产品计划要做的事。
+
+&nbsp;
+
+### 已计划的工作 **（进行中）**
+
+- ##### **建立雪币试验网**
+
+:: 试验网向大众开放，任何人可以进来做实验。我们的代码是开源的，别人可以自行下载源码，在个人电脑搭建开发环境，运行一个雪币的客户端后，接入我们的试验网，就可以体验我们的区块链产品了。
+
+&nbsp;
+
+### 已发生的事件
+
+- ##### 2018-01-18 ** 启动雪币项目**
+
+:: 组建研发团队，申请 snow-coin.com 域名，启用我们的开源项目主页 [github.com/snow-coin](https://github.com/snow-coin)
+
+&nbsp;
+<!-- SLIDE PAGES V1.0, DO NOT CHANGE THIS LINE. -->
+<div $=ScenePage key='auto0'></div>
+<div $=ScenePage key='auto1' no-show='1'>
+  <div $=".pinp.doc_info.thumb" no-show='' left='{-123}' top='{-108}' sty__='{{"background":"url(md/res/D180122-01/netblog.png) no-repeat center","backgroundSize":"100% 100%"}}' klass='default-large-small p1-p2-p3-p0 visible-auto-hidden default-align_center-right' data-group.optid='pinp/blogs/step4' width='{280}' height='{200}'></div>
+</div>

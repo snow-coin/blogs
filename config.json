@@ -1,9 +1,26 @@
 {
   "version": "1.0",
-  "last_modify": 0,
+  "last_modify": 1516584526274,
   "user_name": "rewgt",
-  "imported_repos": [["https://pinp.github.io/blogs/","Online help"]],
+  "imported_repos": [
+    [
+      "https://pinp.github.io/blogs/",
+      "Online help"
+    ]
+  ],
   "repos_name": "blogs",
   "repos_desc": "Blog",
-  "doc_list": []
+  "homepage": "D180122-01.txt",
+  "doc_list": [
+    {
+      "path": "md/D180122-01.txt",
+      "tag": "",
+      "markdown": true,
+      "title": "网志：雪币产品开发",
+      "modify_at": 1516584526274,
+      "create_at": 1516583307185,
+      "desc": "本文除了记录雪币产品的开发与维护过程中发生过的大事，还预告本产品计划要做的事。",
+      "thumb": "md/res/D180122-01/netblog.png"
+    }
+  ]
 }
