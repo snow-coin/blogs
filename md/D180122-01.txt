@@ -19,15 +19,17 @@
 
 - ##### 2018-01-31 ** 雪链项目的发展目标与产品定位 **
 
-:: 项目发起人撰稿介绍雪链项目的发展目标与产品定位，[详情请点这里](https://snow-coin.github.io/wayne-blogs/index.html?page=D180131-01.txt)
+:: [雪链项目的发展目标与产品定位](https://snow-coin.github.io/wayne-blogs/index.html?page=D180131-01.txt)
 
 - ##### 2018-01-19 ** 雪链项目运作模式介绍 **
 
-:: 项目发起人撰稿介绍雪链项目运作模式，[详情请点这里](https://snow-coin.github.io/wayne-blogs/index.html?page=D180119-01.txt)
+:: 项目发起人写了一篇博客，介绍为什么命名雪球链，以及雪链项目如何运作，[详情请点这里](https://snow-coin.github.io/wayne-blogs/index.html?page=D180119-01.txt)
 
 - ##### 2018-01-18 ** 启动雪币项目**
 
 :: 组建研发团队，申请 snow-coin.com 域名，启用我们的开源项目主页 [github.com/snow-coin](https://github.com/snow-coin)
+
+:: [关于项目发起人](https://snow-coin.github.io/wayne-blogs/index.html?page=D180201-01.txt)
 
 &nbsp;
 <!-- SLIDE PAGES V1.0, DO NOT CHANGE THIS LINE. -->
